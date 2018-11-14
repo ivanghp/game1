@@ -4,14 +4,6 @@ using UnityEngine;
 
 public class globalFlock : MonoBehaviour {//pls ignore comments...
 
-	//KnightController _knightController = new KnightController();
-	// float speed = 7;
-	// float rotationSpeed = 70;
-	// float rotation = 0f;
-	// float gravity = 9.8f;
-	// Vector3 moveDirection = Vector3.zero;
-	// CharacterController controller;
-	// Animator animator;
 
 	public GameObject footPrefab;
 
