@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F07C1D0E-B656-8E7D-8708-98D22A3F41CC}</ProjectGuid>
+    <ProjectGuid>{60D5BADD-3DEE-C92E-117D-08F26EDF9314}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -48,7 +48,6 @@
   <ItemGroup>
      <Compile Include="Assets\KnightController.cs" />
      <Compile Include="Assets\WanderingAi.cs" />
-     <Compile Include="Assets\aiFlock.cs" />
      <Compile Include="Assets\globalFlock.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
