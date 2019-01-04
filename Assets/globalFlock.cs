@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class globalFlock : MonoBehaviour {
 
+
 	public GameObject footPrefab;
 
 	public static int quarterFormation = 4;
